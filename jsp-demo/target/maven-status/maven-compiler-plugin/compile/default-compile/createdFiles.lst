@@ -1,0 +1,5 @@
+com\howtodoinjava\app\config\WebMvcConfig.class
+com\howtodoinjava\app\model\Item.class
+com\howtodoinjava\app\web\ItemController.class
+com\howtodoinjava\app\App.class
+com\howtodoinjava\app\service\ItemService.class
